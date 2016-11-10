@@ -1,6 +1,6 @@
-numlist=list() # creat empty list
+numlist = list() # create empty list
 while True : 
-	inp=raw_input('enter numbers\n')
+	inp = raw_input('enter numbers\n')
 	if inp == 'done' : break
 	value = float(inp)
     numlist.append(value) # append all numbers into the new list
