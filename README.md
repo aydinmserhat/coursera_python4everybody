@@ -1,2 +1,2 @@
-# coursera_python4everybody
+# coursera_python4everybody EdX MOOC
 Michigan University
